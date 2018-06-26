@@ -1,22 +1,4 @@
 {
-  "name": "react-weather",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dlsstanford/React-Weather.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dlsstanford/React-Weather/issues"
-  },
-  "homepage": "https://github.com/dlsstanford/React-Weather#readme",
-  "devDependencies": {
     "gh-pages": "^1.2.0"
-  }
+  
 }
