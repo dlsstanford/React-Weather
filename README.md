@@ -2,6 +2,7 @@
 Weather web application built using React.js framework that utilizes async/await to fetch data from the Open Weather Map API.
 > Demo Application can be viewed at: https://dlsstanford.github.io/React-Weather/
 
+![React](/crud-app/public/img/2.jpg)
 
 ## Technologies Used
 - React.js
